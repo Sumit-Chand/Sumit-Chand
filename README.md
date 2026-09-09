@@ -22,9 +22,9 @@ I'm a passionate **full-stack developer** with a love for building elegant solut
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@your_handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Chand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-chand)
+[![Email](https://img.shields.io/badge/Email-chandsumit939%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandsumit939@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40sumitchand-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumitchand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Chand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-chand-1812a828a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
 </div>
