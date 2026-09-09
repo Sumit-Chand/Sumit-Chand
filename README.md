@@ -25,7 +25,6 @@ I'm a passionate **full-stack developer** with a love for building elegant solut
 [![Email](https://img.shields.io/badge/Email-chandsumit939%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandsumit939@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40sumitchand-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumitchand)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Chand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-chand-1812a828a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -71,14 +70,6 @@ I'm a passionate **full-stack developer** with a love for building elegant solut
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Chand&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
----
-
-## 💼 Featured Projects
-
-<!-- Add your featured projects here -->
-- 🔗 [Project Name](https://github.com/Sumit-Chand/project-repo) - Brief description
-- 🔗 [Another Project](https://github.com/Sumit-Chand/another-project) - Brief description
 
 ---
 
