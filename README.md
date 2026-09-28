@@ -58,9 +58,7 @@ Hi there, I'm Sumit! 👋
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Sumit-Chand&theme=dark&show_icons=true&hide=commits&cache_seconds=14400" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Chand&theme=dark&layout=compact&cache_seconds=14400" alt="Top Languages" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
 
 <br/>
 
